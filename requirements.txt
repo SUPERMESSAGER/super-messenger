@@ -1,5 +1,0 @@
-flask
-flask-socketio
-gunicorn
-werkzeug
-psycopg2-binary
