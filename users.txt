@@ -1,6 +1,0 @@
-123:123:123:1:1::
-321:321:321:0:0::
-sanya_play:Александр Журба:3590:1:1:channel:alex_news
-test1:Тест 1:test1:0:0:group:tester_group
-test2:Тест 2:test2:0:0:group:tester_group
-Lemon4ik:Константин:20160511:0:0::
